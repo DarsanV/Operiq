@@ -57,3 +57,9 @@ Get a free API key from: https://makersuite.google.com/app/apikey
 | AI Agents | Python + Google Gemini API |
 | Database | Local JSON Storage |
 | Agent Comm | REST APIs |
+
+
+# OUTPUT
+
+<img width="1854" height="854" alt="image" src="https://github.com/user-attachments/assets/4f56f25a-c5a7-436a-b04e-ea79e84c915f" />
+
