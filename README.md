@@ -2,21 +2,7 @@
 
 An autonomous multi-agent AI platform where specialized AI agents collaboratively analyze, divide, and execute software development tasks.
 
-## 🏗️ Architecture
 
-```
-User → React Frontend → Spring Boot Backend → Orchestrator Agent
-                                                      ↓
-                                              Planner AI (breaks tasks)
-                                            ↙              ↘
-                                    Backend AI       Documentation AI
-                                            ↘              ↙
-                                         Final Combined Output
-                                                  ↓
-                                              MongoDB
-                                                  ↓
-                                          Final Response to User
-```
 
 ## 📁 Project Structure
 
