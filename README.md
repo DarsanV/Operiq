@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent AI Platform
+# OPERIQ .
 
 An autonomous multi-agent AI platform where specialized AI agents collaboratively analyze, divide, and execute software development tasks.
 
